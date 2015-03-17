@@ -4,10 +4,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Contacto</title>
+    <title>Debian en Asus eee pc 1005P</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="Mi web personal construida con jekyll.">
-    <link rel="canonical" href="http://localhost:4000/contacto/">
+    <link rel="canonical" href="http://localhost:4000/linux/2014/09/01/Debian-en-asus-eee-pc/">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/main.css">
@@ -58,17 +58,43 @@
       <div class="post">
 
   <header class="post-header">
-    <h1>Contacto</h1>
+    <h1>Debian en Asus eee pc 1005P</h1>
+    <p class="meta">Sep 1, 2014</p>
   </header>
 
   <article class="post-content">
-  <p>Contacto</p>
+  <p>Le he instalado a una amiga debian en su netbook (modelo Asus Eee Pc 1005P).
+Después de pensar y buscar un poco por internet, me decidí por debian porque al ser la que utilizo, es la distribución que creo 
+domino mejor, y en caso de necesitar ayuda, seguro que podré ayudarle.
+Decidí instalar, desde un pendrive usb y el netbook conectado por ethernet a mi red, el sistema base, sólo añadiendo ssh y
+utilidades para portátil, para posteriormente instalar las aplicaciones realmente necesarias. Al instalar el gestor de arranque
+(grub) en la instalación debes tener cuidado porque puede intentar instalarlo automáticamente en un lugar que no es el adecuado.
+Es mejor, cuando el sistema pregunte si quieres instalar grub, decir que no, e instantáneamente abre otra pantalla preguntando dónde 
+instalarlo. En mi caso tuve que poner ‘/dev/sdb’ porque si no, me lo instalaba en /dev/sda que era el propio pendrive usb que estaba
+usando para instalar. Esta solución la encontré después de dos instalaciones fallidas y un poco de búsqueda por internet, y 
+la comparto por si alguien llega a tener el mismo problema.</p>
 
-<p>Si quieres ponerte en contacto conmigo, la mejor forma será el correo electrónico.</p>
+<p>Mucha de la información de la configuración e instalación de paquetes la encontré en Takla’s Weblog (en inglés). Dónde se explica 
+la instalación de debian wheezy en un Asus Eee Pc 1005P.</p>
 
-<p>luismiguel@lmromero.com</p>
+<p>Un problema que me encontré fue que el brillo de la pantalla no se podía poner al máximo, quedando algo oscura cuando la luz 
+ambiental es buena. Para solucionarlo hay que hacer lo siguiente:
+En un terminal poner</p>
 
-<p>GPG key: F874A371</p>
+<p><code>nano /etc/default/grub</code></p>
+
+<p>cambiar la línea</p>
+
+<p><code>GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"</code></p>
+
+<p>por</p>
+
+<p><code>RUB_CMDLINE_LINUX_DEFAULT="quiet splash acpi_osi=Linux"</code></p>
+
+<p>guardar, y ejecutar</p>
+
+<p><code>update-grub</code>
+<code>reboot</code></p>
 
   </article>
 

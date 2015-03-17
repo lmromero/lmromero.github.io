@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre mi
+permalink: /sobremi/
 ---
 
 Luis Miguel Romero

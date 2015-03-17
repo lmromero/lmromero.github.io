@@ -4,10 +4,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Contacto</title>
+    <title>Linux. Desisntalar kernels y eliminarlos de Grub</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="Mi web personal construida con jekyll.">
-    <link rel="canonical" href="http://localhost:4000/contacto/">
+    <link rel="canonical" href="http://localhost:4000/linux/2015/03/17/Linux-Desinstalar-kernels/">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/main.css">
@@ -58,17 +58,18 @@
       <div class="post">
 
   <header class="post-header">
-    <h1>Contacto</h1>
+    <h1>Linux. Desisntalar kernels y eliminarlos de Grub</h1>
+    <p class="meta">Mar 17, 2015</p>
   </header>
 
   <article class="post-content">
-  <p>Contacto</p>
+  <p>Conocer el kernel que estamos usando: <code>uname -r</code></p>
 
-<p>Si quieres ponerte en contacto conmigo, la mejor forma será el correo electrónico.</p>
+<p>Saber los kernels que tenemos instalados: <code>dpkg --get-selections | grep linux-image</code></p>
 
-<p>luismiguel@lmromero.com</p>
+<p>Desinstalar el kernel que no queremos: <code>apt-get remove --purge linux-image-XXXXX</code></p>
 
-<p>GPG key: F874A371</p>
+<p>Actualizar grub para los nuevos kernels: <code>update-grup</code></p>
 
   </article>
 
