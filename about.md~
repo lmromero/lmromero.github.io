@@ -1,0 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+Esta es mi página web personal.
+He utilizado jekyll para generar la web.
