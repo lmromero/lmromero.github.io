@@ -7,18 +7,18 @@ permalink: /sobremi/
 Luis Miguel Romero
 Sevilla, España
 
-FORMACIÓN ACADÉMICA.
+FORMACIÓN ACADÉMICA.  
 Estudiante Grado Tecnologías de Telecomunicación por la Universidad Oberta de Cataluña.
 Titulado en Arquitectura Técnica por la Universidad de Sevilla en 2007.
 
-FORMACIÓN COMPLEMENTARIA.
+FORMACIÓN COMPLEMENTARIA.  
 – Curso “Learn to Program: The fundamentals” (lenguaje de programación Python). Universidad de Toronto. 45 horas. Impartido online.
 – Curso “Programador de Sistemas” (lenguaje de programación C, shell scripts, linux). Fundación Andaluza de Fondo Formación y Empleo. 430 horas.
 – Jornada sobre Inspección Técnica de Edificios. Colegio de Aparejadores y Arquitectos Técnicos de Sevilla.
 – Curso “Diseño y modificación de planos en 2D y 3D” (autocad). Fundación Andaluza de Fondo Formación y Empleo. 214 horas.
 – Curso “Intervenciones de Restauración en Monumentos Arquitectónicos”. Escuela universitaria de Arquitectura Técnica, Universidad de Sevilla. 60 horas.
 
-EXPERIENCIA PROFESIONAL.
+EXPERIENCIA PROFESIONAL.  
 Actualmente trabajo como teleoperador en Sitel Sevilla en el servicio de Tranquilidad Orange.
 
 He trabajado durante un tiempo como profesional liberal haciendo Inspecciones técnicas de edificios (ITEs), levantamiento de planos, mediciones y presupuestos.
@@ -27,7 +27,7 @@ Idom Servicios Integrales de Ingeniería. Becario. Elaboración y revisión de p
 
 Y por supuesto he estado trabajando en algún que otro bar, restaurante y hotel. Desde Cambridge hasta Edimburgo, pasando por Vielha y Sevilla.
 
-OTROS DATOS.
+OTROS DATOS.  
 Conozco lo suficiente de sistemas operativos para manejarme con soltura tanto en Linux como en Mac OSX y Windows.
 He programado en C, Java y Python. Y también he hecho algún que otro script en Shell (bash). Tanto en Html como en Css me defiendo bastante bien. Y siempre aprendiendo Javascript y PHP.
 
