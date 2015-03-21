@@ -4,7 +4,7 @@ email: luismiguel@lmromero.com.com
 description: "Mi web personal construida con jekyll."
 baseurl: ""
 url: "http://localhost:4000"
-twitter_username: yosoyluismi23
+twitter_username: yosoyluismi
 github_username:  lmromero
 
 # Build settings

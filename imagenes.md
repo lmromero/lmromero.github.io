@@ -5,11 +5,11 @@ permalink: /imagenes/
 ---
 
 
-[![yo]({{ site.url}}/images/yo.jpg)]({{ site.url}}/images/original/yo.jpg)
-[![Ronda]({{ site.url}}/images/ronda.jpg)]({{ site.url}}/images/original/ronda.jpg)
-[![tequiero]({{ site.url}}/images/tequiero.jpg)]({{ site.url}}/images/original/tequiero.jpg)
-[![terraza]({{ site.url}}/images/terraza.jpg)]({{ site.url}}/images/original/terraza.jpg)
-[![phone]({{ site.url}}/images/phone.jpg)]({{ site.url}}/images/original/phone.jpg)
+[![yo](/images/yo.jpg)](/images/original/yo.jpg)
+[![Ronda](/images/ronda.jpg)](/images/original/ronda.jpg)
+[![tequiero](/images/tequiero.jpg)](/images/original/tequiero.jpg)
+[![terraza](/images/terraza.jpg)](/images/original/terraza.jpg)
+[![phone](/images/phone.jpg)](/images/original/phone.jpg)
 
 Todas mis imágenes tambien estan en [instagram](https://instagram.com/romeromadejon/)
 
