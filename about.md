@@ -4,11 +4,11 @@ title: Sobre mi
 permalink: /sobremi/
 ---
 
-Luis Miguel Romero
+Luis Miguel Romero  
 Sevilla, España
 
 FORMACIÓN ACADÉMICA.  
-Estudiante Grado Tecnologías de Telecomunicación por la Universidad Oberta de Cataluña.
+Estudiante Grado Tecnologías de Telecomunicación por la Universidad Oberta de Cataluña. 
 Titulado en Arquitectura Técnica por la Universidad de Sevilla en 2007.
 
 FORMACIÓN COMPLEMENTARIA.  
@@ -21,14 +21,14 @@ FORMACIÓN COMPLEMENTARIA.
 EXPERIENCIA PROFESIONAL.  
 Actualmente trabajo como teleoperador en Sitel Sevilla en el servicio de Tranquilidad Orange.
 
-He trabajado durante un tiempo como profesional liberal haciendo Inspecciones técnicas de edificios (ITEs), levantamiento de planos, mediciones y presupuestos.
-Grutecón Construcciones S.L. Jefe de obras de rehabilitación y restauración. Control de ejecución, y control de costes y plazos. Peticiones de ofertas a proveedores. Redacción de comparativos y elaboración de informes técnicos.
+He trabajado durante un tiempo como profesional liberal haciendo Inspecciones técnicas de edificios (ITEs), levantamiento de planos, mediciones y presupuestos.  
+Grutecón Construcciones S.L. Jefe de obras de rehabilitación y restauración. Control de ejecución, y control de costes y plazos. Peticiones de ofertas a proveedores. Redacción de comparativos y elaboración de informes técnicos.  
 Idom Servicios Integrales de Ingeniería. Becario. Elaboración y revisión de planos de proyectos de obra civil. Mediciones y presupuestos. Seguimiento de obras. Elaboración y revisión de informes técnicos.
 
 Y por supuesto he estado trabajando en algún que otro bar, restaurante y hotel. Desde Cambridge hasta Edimburgo, pasando por Vielha y Sevilla.
 
 OTROS DATOS.  
-Conozco lo suficiente de sistemas operativos para manejarme con soltura tanto en Linux como en Mac OSX y Windows.
+Conozco lo suficiente de sistemas operativos para manejarme con soltura tanto en Linux como en Mac OSX y Windows.  
 He programado en C, Java y Python. Y también he hecho algún que otro script en Shell (bash). Tanto en Html como en Css me defiendo bastante bien. Y siempre aprendiendo Javascript y PHP.
 
 Cada día aprendo algo más de inglés, que es mi asignatura pendiente. Espero solucionarlo de verdad algún día.
