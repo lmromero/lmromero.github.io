@@ -19,7 +19,7 @@ FORMACIÓN COMPLEMENTARIA.
 – Curso “Intervenciones de Restauración en Monumentos Arquitectónicos”. Escuela universitaria de Arquitectura Técnica, Universidad de Sevilla. 60 horas.
 
 EXPERIENCIA PROFESIONAL.  
-Actualmente trabajo como teleoperador en Sitel Sevilla en el servicio de Tranquilidad Orange.
+Actualmente trabajo como agente en Sitel Sevilla en el servicio de Tranquilidad Orange.
 
 He trabajado durante un tiempo como profesional liberal haciendo Inspecciones técnicas de edificios (ITEs), levantamiento de planos, mediciones y presupuestos.  
 Grutecón Construcciones S.L. Jefe de obras de rehabilitación y restauración. Control de ejecución, y control de costes y plazos. Peticiones de ofertas a proveedores. Redacción de comparativos y elaboración de informes técnicos.  

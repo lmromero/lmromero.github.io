@@ -1,6 +1,6 @@
 # Site settings
 title: Luis Miguel Romero
-email: luismiguel@lmromero.com.com
+email: luismiguel@lmromero.com
 description: "Mi web personal construida con jekyll."
 baseurl: ""
 url: "http://localhost:4000"
