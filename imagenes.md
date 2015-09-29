@@ -15,5 +15,5 @@ permalink: /imagenes/
 [![phone](/images/phone.jpg)](/images/original/phone.jpg)
 
 
-También imagenes en [instagram](https://instagram.com/romeromadejon/)
+Mi [instagram](https://instagram.com/romeromadejon/)
 
